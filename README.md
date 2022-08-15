@@ -1,7 +1,9 @@
-### Hi there 👋 I am Parbaz Hossain
+#                                            Hi  👋 I am Parbaz Hossain
+                                 
+                                 
+                                 
 
-
-- 🔭 I’m currently working on ... ASP.NET_CORE_06, ANGULAR_12_LEARNING
+- 🔭 I’m currently working on ... [ASP.NET CORE 06](https://github.com/Parbaz-Hossain/ASP.NET_CORE_06)
 - 🌱 I’m currently learning ... ASP.NET CORE 06, ANGULAR 12
 - 👯 I’m looking to collaborate on ... New Technology
 - 🤔 I’m looking for help with ... Learning New Tech
