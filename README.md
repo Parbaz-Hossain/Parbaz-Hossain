@@ -3,7 +3,7 @@
                                  
                                  
 
-- 🔭 I’m currently working on ... [ASP.NET CORE 08,Python,AI(https://dotnet.microsoft.com/en-us/apps/aspnet)]
+- 🔭 I’m currently working on ... [ASP.NET CORE 08,Python,AI](https://dotnet.microsoft.com/en-us/apps/aspnet,https://www.python.org/)
 - 🌱 I’m currently learning ... ASP.NET CORE 08, ANGULAR 16, Python, FastAPI, AI
 - 👯 I’m looking to collaborate on ... New Technology
 - 🤔 I’m looking for help with ... Learning New Tech
